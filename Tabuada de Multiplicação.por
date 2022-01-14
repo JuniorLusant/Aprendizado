@@ -9,10 +9,12 @@ programa
 		inteiro num, count, limit, result
 
 		count = 0
-		limit = 10
+		
 		escreva ("______Tabuada de Multiplicação______" + "\n")
 		escreva ("\n" + "Digite o numero desejado: ")
 		leia (num)
+		escreva ("\n" + "Digite o número limite de multiplições: ")
+		leia (limit)
 
 		faca{
 
@@ -28,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 102; 
+ * @POSICAO-CURSOR = 367; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
