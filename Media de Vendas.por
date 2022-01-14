@@ -1,3 +1,6 @@
+//Função do ALgoritmo: Calcular a Média Aritmética
+//Autor: Junior Lucas
+
 programa
 {
 	
@@ -28,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 650; 
+ * @POSICAO-CURSOR = 576; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
